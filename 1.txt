@@ -1,0 +1,1 @@
+{"username": "frey", "pass": "name1234", "email": "namoa@net.piu", "activ": "active", "role": "user"}
